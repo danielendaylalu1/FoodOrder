@@ -1,0 +1,10 @@
+.modal{
+    position: fixed;
+    width: 100%;
+    min-height: 150vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+}
+.hide{
+    display: none;
+}

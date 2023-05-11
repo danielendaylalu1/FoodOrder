@@ -1,0 +1,43 @@
+.mealmodal{
+    position: fixed;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0, 0, 8px, 10px rgba(0, 0, 0, 0.25) ;
+    background-color: #ffff;
+    width: 45%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 10rem auto;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+.total h2{
+    font-size: 1.3rem;
+    margin-top: 10px;
+}
+.total h3{
+    margin-top: 10px;
+}
+.btns{
+    float: right;
+}
+.btns button{
+    cursor: pointer;
+    font-size: 0.8rem;
+    border: 1.5px solid rgb(194, 59, 59);
+    border-radius: 20px;
+    padding: 0.5rem 1.2rem;
+    cursor: pointer;
+    margin: 5px 10px 0 0;
+}
+.btnOutline{
+    color:rgb(194, 59, 59);
+    background-color: #fff;
+}
+.btnFill{
+    color: #fff;
+    background-color:  rgb(194, 59, 59);
+}

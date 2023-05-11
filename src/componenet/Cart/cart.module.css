@@ -1,0 +1,34 @@
+.cart {
+  float: right;
+  padding: 0.7rem 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #442929e8;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.cart h3 {
+  margin:0 7px;
+  color: #ffff;
+  text-align: center;
+  line-height: 5px;
+  font-size: 16px;
+  background-color: rgb(150, 12, 12);
+  padding: 10px 15px;
+  border-radius: 15px;
+}
+.cart h2 {
+  margin:0 7px;
+  text-align: center;
+  line-height: 5px;
+  font-size: 16px;
+  color: #ffff;
+}
+.cart i {
+  margin:0 7px;
+  text-align: center;
+  line-height: 5px;
+  font-size: 16px;
+  color: #ffff;
+}

@@ -1,0 +1,21 @@
+.addmeal h2{
+    font-size: 1rem;
+    display: inline-block;
+    margin-right: 5px;
+}
+.addmeal input{
+    width: 40px;
+    padding-left: 5px;
+}
+.addmeal button{
+    display: block;
+    margin: 15px auto 0 auto;
+    padding: 0.6rem 2.2rem;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #ffff;
+    background-color: rgb(194, 59, 59);
+}

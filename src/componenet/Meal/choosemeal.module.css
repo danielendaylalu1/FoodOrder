@@ -1,0 +1,17 @@
+.choosemeal{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.choosemeal .name{
+    font-size: 1.2rem;
+}
+.choosemeal .description{
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-style: italic;
+}
+.choosemeal .price{
+    font-size: 1.2rem;
+    color: rgb(194, 59, 59);
+}

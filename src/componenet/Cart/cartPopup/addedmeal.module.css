@@ -1,0 +1,23 @@
+.addedMeal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0.5rem 0;
+}
+.hr{
+    display: block;
+    opacity: 0.5;
+}
+.hide{
+    display: none;
+}
+.addedMealChange button{
+    color: solid rgb(194, 59, 59);
+    font-size: 1.2rem;
+    border: 1.5px solid rgb(194, 59, 59);
+    border-radius: 5px;
+    padding: 0.2rem 1rem;
+    background-color: #fff;
+    margin: 10px 5px;
+    cursor: pointer;
+}

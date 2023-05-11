@@ -1,0 +1,26 @@
+.addedMealDesc{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    position: relative;
+}
+.addedMealDesc .name{
+    font-size: 1.1rem;
+}
+.addedMealDesc .price{
+    font-size: 1rem;
+    color: rgb(194, 59, 59);
+    margin-top: 10px;
+}
+.addedMealDesc .amount{
+    font-size: 0.8rem;
+    font-weight: 300;
+    border: 1px solid #bbb9b9;
+    border-radius: 5px;
+    padding: 0.1rem 0.5rem;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-right: -50px;
+    /* margin-bottom: 10px; */
+}
